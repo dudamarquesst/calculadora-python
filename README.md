@@ -43,8 +43,5 @@ Cálculo baseado na entrada do usuário
 
 Tratamento básico de erros (como divisão por zero)
 
-## 🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou sugestões.
-
 ## 📢 Autor
 Desenvolvido por Duda Marques
