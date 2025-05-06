@@ -33,8 +33,10 @@ Este projeto foi criado durante o bootcamp de Engenharia de Software, como parte
 calculadora-python/
 │
 ├── projetos-academicos/
-│   └── codigo.py         # Código-fonte da calculadora
-├── README.md             # Este arquivo
+│   └── calculadora.py
+│
+└── README.md
+
 
 ## 🔧 Funcionalidades
 Interface de linha de comando (CLI)
