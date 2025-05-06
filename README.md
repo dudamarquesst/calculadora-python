@@ -46,4 +46,4 @@ Cálculo baseado na entrada do usuário
 Tratamento básico de erros (como divisão por zero)
 
 ## 📢 Autor
-Desenvolvido por Duda Marques
+Desenvolvido por Maria Eduarda Marques
