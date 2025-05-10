@@ -50,3 +50,4 @@ while True:
 
     print("Resultado:", resultado)
     print("-" * 30)
+    
