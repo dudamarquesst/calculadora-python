@@ -38,6 +38,7 @@ cd calculadora-python
 3. Execute o script da calculadora:
 
 python calculadora.py
+
 Obs: É necessário ter o Python instalado na máquina (recomenda-se a versão 3.10 ou superior).
 
 
@@ -55,8 +56,9 @@ Este projeto faz parte da atividade "Desafio - Entrega Intermediária: Criação
 ---
 
 ## 🔗 Links Importantes
-Repositório no GitHub
-Meu perfil no LinkedIn
+[Repositório no GitHub](https://github.com/dudamarquesst/calculadora-python)
+
+[Meu perfil no LinkedIn]( linkedin.com/in/maria-eduarda-m)
 
 ---
 
