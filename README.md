@@ -1,49 +1,70 @@
 # 🧮 Calculadora em Python
 
-Este é um projeto simples de uma **calculadora básica** desenvolvida em Python, com o objetivo de praticar conceitos iniciais da linguagem e versionamento de código usando Git e GitHub.
+Este é um projeto simples de calculadora em Python, criado com o objetivo de praticar os conceitos iniciais de programação, versionamento com Git e organização de repositórios no GitHub.
 
-## 📚 Descrição
+---
 
-A calculadora permite realizar operações matemáticas básicas:
+## ✨ Funcionalidades
+
 - Adição
 - Subtração
 - Multiplicação
 - Divisão
 
-Este projeto foi criado durante o bootcamp de Engenharia de Software, como parte do desafio de criação de repositório com versionamento.
+---
 
-## 💻 Tecnologias Utilizadas
-
-- Python 3.x
-
-## ▶️ Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/dudamarquesst/calculadora-python.git
-   
-2. Acesse a pasta do projeto:
-   cd calculadora-python
-   
-3. Execute o arquivo:
-   python codigo.py
-   
-## 📁 Estrutura
+## 📁 Estrutura do Projeto
 
 calculadora-python/
-│
-├── projetos-academicos/
-│   └── calculadora.py
-│
-└── README.md
+├── calculadora.py
+├── README.md
 
 
-## 🔧 Funcionalidades
-Interface de linha de comando (CLI)
+---
 
-Cálculo baseado na entrada do usuário
+## 🚀 Como Executar
 
-Tratamento básico de erros (como divisão por zero)
 
-## 📢 Autor
-Desenvolvido por Maria Eduarda Marques
+1. Clone o repositório:
+
+git clone https://github.com/dudamarquesst/calculadora-python.git
+
+
+2. Acesse a pasta do projeto:
+
+cd calculadora-python
+
+
+3. Execute o script da calculadora:
+
+python calculadora.py
+Obs: É necessário ter o Python instalado na máquina (recomenda-se a versão 3.10 ou superior).
+
+
+---
+
+🛠 Tecnologias Utilizadas
+- Python 3.x
+- Git e GitHub
+
+---
+
+## 📌 Objetivo Educacional
+Este projeto faz parte da atividade "Desafio - Entrega Intermediária: Criação de Repositório com Versionamento" do Bootcamp I.
+
+---
+
+## 🔗 Links Importantes
+Repositório no GitHub
+Meu perfil no LinkedIn
+
+---
+
+## 👤 Autor
+@dudamarquesst
+
+---
+
+## 📝 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
